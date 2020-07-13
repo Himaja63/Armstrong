@@ -5,3 +5,5 @@ def checkArmstrong(num):
         # Your code goes here
 
        return True
+
+       
